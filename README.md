@@ -1,10 +1,10 @@
 #APP-ID 8: FILE TRANSFER PROTOCOL USING CLIENT-SERVER SOCKET PROGRAMMING
 
-Group Members
-  * Prachurya Das , Dept: M&C, Roll number: 190123045
-  * Nitin Kumar, Dept: M&C, Roll number: 190123043
-  * Prakash Parmer, Dept:M&C, Roll number: 190123047
-  * Pritam Das, Dept: M&C, Roll number: 190123048
+    Group Members:
+  * Prachurya Das , Department: M&C, Roll number: 190123045
+  * Nitin Kumar, Department: M&C, Roll number: 190123042
+  * Prakash Parmar, Department:M&C, Roll number: 190123047
+  * Pritam Das, Department: M&C, Roll number: 190123048
 
 The following is a C-based implementation of File Transfer Protocol (FTP). It has the following 5 functionalities:
  * PUT : Transfer a file from client's to server's disk
@@ -47,7 +47,7 @@ Then, on the client terminal run:
 $ ./client <Server IP Address> <Server Port number>
 ```
 
-For easy check of the program, we can take the IP Address of Server to be simply the loopback address (127.0.0.1) & port number to be any between 1024 to 49151
+For easy check of the program, we can take the IP Address of Server to be simply the loopback address (127.0.0.1) & port number to be any between 1024 to 49151,
 On doing this, the client is now connected to the server. 
 
 The client will have to give input a command in the above format so that necessary action can be taken. The server code is executed just once and waits for incoming connections. Server can be stopped by pressing "CTRL + C" on the corresponding terminal on which its code was compiled and run. Further, the client can make a connection with the server and keeps on giving necessary inputs. The client will be closed only when the user gives the exit input on its own.
