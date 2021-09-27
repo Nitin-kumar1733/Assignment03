@@ -1,6 +1,6 @@
 #APP-ID 8: FILE TRANSFER PROTOCOL USING CLIENT-SERVER SOCKET PROGRAMMING
 
-    Group Members:
+Group Members:
   * Prachurya Das , Department: M&C, Roll number: 190123045
   * Nitin Kumar, Department: M&C, Roll number: 190123042
   * Prakash Parmar, Department:M&C, Roll number: 190123047
